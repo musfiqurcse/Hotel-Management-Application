@@ -1,0 +1,6 @@
+E:\Work Batch 04\Exam\ExamProject\ExamProject\obj\Debug\ExamProject.csprojResolveAssemblyReference.cache
+E:\Work Batch 04\Exam\ExamProject\ExamProject\bin\ExamProject.dll.config
+E:\Work Batch 04\Exam\ExamProject\ExamProject\bin\ExamProject.dll
+E:\Work Batch 04\Exam\ExamProject\ExamProject\bin\ExamProject.pdb
+E:\Work Batch 04\Exam\ExamProject\ExamProject\obj\Debug\ExamProject.dll
+E:\Work Batch 04\Exam\ExamProject\ExamProject\obj\Debug\ExamProject.pdb
